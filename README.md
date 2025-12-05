@@ -32,7 +32,7 @@ Comprehensive incident response playbooks and procedures for handling various cy
 - Forensic analysis tools
 
 ## Files Included
-- [Violet Figueroa Playbook for Cat & Box Scenario.pdf](Violet%20Figueroa%20Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf) - Detailed incident response playbook
-- [Violet Figueroa Playbook for Cat & Box Scenario.md](Violet%20Figueroa%20Playbook%20for%20Cat%20%26%20Box%20Scenario.md) - Playbook in Markdown format
+- [Violet Figueroa Playbook for Cat & Box Scenario.pdf](Violet%20Figueroa%20Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf) - Detailed incident response playbook (PDF format)
+- [Violet Figueroa Playbook for Cat & Box Scenario.md](Violet%20Figueroa%20Playbook%20for%20Cat%20%26%20Box%20Scenario.md) - Playbook in Markdown format for easy viewing and editing
 - [Flowchart.png](Flowchart.png) - Visual incident response flowchart
-- [incident-response-playbooks.md](incident-response-playbooks.md) - Extended documentation
+- [incident-response-playbooks.md](incident-response-playbooks.md) - Extended project documentation and context
