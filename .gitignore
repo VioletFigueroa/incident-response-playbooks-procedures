@@ -1,0 +1,61 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node
+node_modules/
+npm-debug.log
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# Sensitive data (if any)
+.env
+.env.local
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# Project specific
+.DS_Store
+desktop.ini
