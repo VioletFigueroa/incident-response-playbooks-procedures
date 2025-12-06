@@ -8,6 +8,15 @@
 
 ---
 
+**How to view artifacts:** Main playbook in `Violet Figueroa Playbook for Cat & Box Scenario.pdf/.md`; flow in `Flowchart.png`.
+
+**Result snapshot:** Provides ready-to-use IR steps, roles, and comms for common scenarios.
+
+**Quick review:**
+- Docs: `Violet Figueroa Playbook for Cat & Box Scenario.pdf/.md`
+- Visual: `Flowchart.png`
+- Start with: Roles/comms section, then the scenario checklist
+
 ## Overview
 Comprehensive incident response playbooks and procedures for handling various cybersecurity incidents. This project provides step-by-step guidance for incident detection, containment, eradication, and recovery in real-world scenarios.
 
@@ -38,6 +47,10 @@ Comprehensive incident response playbooks and procedures for handling various cy
 - Communication and collaboration tools
 - Documentation and flowchart tools
 - Forensic analysis tools
+
+## Lessons Learned
+- Clear roles/comms reduce delay more than tool tweaks.
+- Checklists plus visuals keep responders aligned under pressure.
 
 ## Files Included
 - [Violet Figueroa Playbook for Cat & Box Scenario.pdf](Violet%20Figueroa%20Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf) - Detailed incident response playbook (PDF format)
