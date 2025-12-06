@@ -1,11 +1,3 @@
----
-title: "Incident Response Playbooks"
-date: 2025-11-22
-layout: "single"
-draft: false
-tags: [incident response, playbooks, cybersecurity]
-summary: "Comprehensive documentation for incident response playbooks, including the Cat & Box Scenario."
----
 
 This project focuses on the development and analysis of incident response playbooks. A detailed example is provided in the "Cat & Box Scenario" playbook.
 
@@ -15,8 +7,8 @@ The "Cat & Box Scenario" playbook outlines incident response procedures for a sp
 
 ## Project Deliverables
 
-- [Cat & Box Scenario Playbook (Markdown)](/projects/incident-response-playbooks/Violet%20Figueroa%20Playbook%20for%20Cat%20%26%20Box%20Scenario.md)
-- [Cat & Box Scenario Playbook (PDF)](/projects/incident-response-playbooks/Violet%20Figueroa%20Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf)
+- [Cat & Box Scenario Playbook (Markdown)](./Violet%20Figueroa%20Playbook%20for%20Cat%20%26%20Box%20Scenario.md)
+- [Cat & Box Scenario Playbook (PDF)](./Violet%20Figueroa%20Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf)
 
 ## Supporting Artifacts & Evidence
 

@@ -1,9 +1,3 @@
----
-title: "Incident Response Playbook - Box Manufacturing Scenario"
-draft: true
-tags: ["incident response", "playbook", "IR procedures", "threat response"]
-description: "Incident response playbook for Box Manufacturing incident scenario including roles, procedures, severity levels, and escalation procedures."
----
 
 # Box Manufacturing Playbook
 
