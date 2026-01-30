@@ -5,6 +5,7 @@ This is a portfolio project showcasing cybersecurity expertise in incident respo
 ## About This Project
 
 This repository is part of a professional cybersecurity portfolio demonstrating:
+
 - Real-world security incident investigation and response
 - Compliance frameworks and risk management (ISO 27001)
 - Vulnerability assessment and remediation strategies
@@ -14,6 +15,7 @@ This repository is part of a professional cybersecurity portfolio demonstrating:
 ## Viewing This Portfolio
 
 This repository contains comprehensive documentation, reports, and analysis artifacts. Review the [README.md](README.md) for:
+
 - Complete project overview
 - All included files and deliverables
 - Technologies and methodologies used

@@ -16,6 +16,7 @@ Please do **not** open a public GitHub issue. Instead:
 ### Security Updates
 
 Portfolio projects are updated periodically with:
+
 - Latest compliance frameworks and standards
 - Current incident response procedures
 - Updated threat intelligence
@@ -24,6 +25,7 @@ Portfolio projects are updated periodically with:
 ## Security Considerations
 
 These portfolio projects document real-world security incidents and investigations. Some content may contain:
+
 - De-identified incident details
 - Security vulnerability information
 - Sensitive analysis artifacts
@@ -34,6 +36,7 @@ All sensitive information has been sanitized or anonymized to protect privacy an
 ## Responsible Disclosure
 
 This portfolio demonstrates security best practices including:
+
 - Responsible incident response procedures
 - Proper vulnerability disclosure timelines
 - Evidence preservation and chain of custody
